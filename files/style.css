@@ -5,4 +5,14 @@
 
 body {
     background-color: rgba(49, 49, 247, 0.313);
+    font-family: Helvetica;
+}
+
+.container-header {
+    background-color: rgb(132, 22, 22);
+    color: white;
+    padding: 15px;
+    border-radius: 7px;
+    align-items: center;
+    text-align: center;
 }
