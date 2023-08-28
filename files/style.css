@@ -20,7 +20,14 @@ body {
 #form-dados-aluno {
     border: 1px solid;
     padding: 10px;
-    background-color: rgb(182, 245, 224);
+    background-color: rgb(61, 60, 60);
+    color: white;
     border-radius: 7px;
-    width: 50%;
+    width: 20rem;
+
+}
+
+.btn-form {
+    padding: 5px;
+    border-radius: 6px;
 }
