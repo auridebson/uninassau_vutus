@@ -16,3 +16,11 @@ body {
     align-items: center;
     text-align: center;
 }
+
+#form-dados-aluno {
+    border: 1px solid;
+    padding: 10px;
+    background-color: rgb(182, 245, 224);
+    border-radius: 7px;
+    width: 50%;
+}
